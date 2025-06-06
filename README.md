@@ -5,4 +5,4 @@ LinkedHashMap maintains the order of insertion.
 
 First loop: Counts each character’s frequency.
 
-Second loop: Checks for the first character that appears exactly once.
+Second loop: Checks for the first character that appears exactly once...
